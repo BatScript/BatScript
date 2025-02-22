@@ -1,11 +1,7 @@
-Hi 👋 My name is Mohit
-======================
+# 👋 Hey, I'm Mohit  
 
-I'm a Front-end web developer on a path to eat Native devs' job.
+I started my coding journey with **JavaScript**, but these days, I mostly speak **Python** (it listens better). I enjoy building things that scale—both in code and in life (except my potato consumption; that’s already at max capacity).  
 
-* 🌍  I'm based in Madhubani, Bihar
-* 🖥️  Visit my [portfolio](https://mohit.flashweb.in)
-* 🖥️  Visit my [blogs](https://www.flashweb.in)
-* ✉️  You can contact me at [dev.mohitranjan@gmail.com](dev.mohitranjan@gmail.com)
-* 🧠  I'm learning about LLMs.
-* 🤝  I'm open to collaborating on Web applications on MERN + Angular
+Currently, I’m a **Senior Software Engineer** at **Asato**, where I write **clean code, design scalable architectures,** and occasionally debug existential crises. I’ve been diving into **Machine Learning**, because why not let computers do the thinking for us?  
+
+If it involves **code, potatoes, or a mix of both**, I’m in. 🚀  
